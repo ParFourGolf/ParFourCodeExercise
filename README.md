@@ -1,6 +1,10 @@
 # Coding Exercise: Simple Note-Taking App
+Your task is to create a simple note-taking app using React Native. 
 
-Your task is to create a simple note-taking app using React Native. This is intended to take less than 15 minutes and serve as a basis for conversation.  There is no need to spend extra time on complexity.
+## Keep it Simple
+This is intended to take less than 15 minutes and serve as a basis for conversation.  There is no need to spend extra time on complexity.
+
+# Setup
 
 You can clone this repo or create your own using:
 
