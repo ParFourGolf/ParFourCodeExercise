@@ -19,6 +19,6 @@ npx create-expo-app -t expo-template-blank-typescript
 
 6. **Separation of Concerns:** The business logic and state management of the app should be handled in a separate file. Similarly, all data storage-related logic should be in a separate file. The input field state can be stored anywhere.
 
-7. **Styling:** Style the app similarly to the provided screenshot. Exact matching is not required. Feel free to add a bottom margin to achieve spacing between notes.
+7. **Styling:** Style the app similarly to the provided screenshot. Exact matching is not required. Feel free to add a bottom margin to achieve spacing between elements.
 
 ![alt text](screenshot.png "Screenshot")
