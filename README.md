@@ -1,6 +1,8 @@
 # Coding Exercise: Simple Note-Taking App
 
-Your task is to create a simple note-taking app using React Native. You can clone this repo or create your own using
+Your task is to create a simple note-taking app using React Native. This is intended to take less than 15 minutes and serve as a basis for conversation.  There is no need to spend extra time on complexity.
+
+You can clone this repo or create your own using:
 
 ```
 npx create-expo-app -t expo-template-blank-typescript
@@ -19,6 +21,6 @@ npx create-expo-app -t expo-template-blank-typescript
 
 6. **Separation of Concerns:** The business logic and state management of the app should be handled in a separate file. Similarly, all data storage-related logic should be in a separate file. The input field state can be stored anywhere.
 
-7. **Styling:** Style the app similarly to the provided screenshot. Exact matching is not required. Feel free to add a bottom margin to achieve spacing between elements.
+7. **Styling:** Style the app similarly to the provided screenshot. Exact matching is not required. Feel free to add a bottom margin to achieve spacing between elements.  There is no need to create a more complex spacer component.
 
 ![alt text](screenshot.png "Screenshot")
