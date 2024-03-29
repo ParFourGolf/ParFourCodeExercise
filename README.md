@@ -11,7 +11,7 @@ npx create-expo-app -t expo-template-blank-typescript
    
 2. **Note Input:** The app should provide an input field that allows users to enter a note.
 
-3. **Add Button:** There should be an "Add" button. When this button is pressed, the app should clear the input field.
+3. **Add Button:** There should be an "Add" button. When this button is pressed, the app should add the note to the existing notes and clear the input field.
 
 4. **Note Display:** The app should display all entered notes below the input form.
 
