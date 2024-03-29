@@ -7,17 +7,18 @@ npx create-expo-app -t expo-template-blank-typescript
 ```
 
 # Features
+1. **Typescript:** Use Typescript in all files you create. Make sure to define types for your state, props, event handlers, and any other values that can be typed. Use interfaces or types to define the shape of objects, and use enums where appropriate. This will help ensure that your code is type-safe and easy to understand.
+   
+2. **Note Input:** The app should provide an input field that allows users to enter a note.
 
-1. **Note Input:** The app should provide an input field that allows users to enter a note.
+3. **Add Button:** There should be an "Add" button. When this button is pressed, the app should clear the input field.
 
-2. **Add Button:** There should be an "Add" button. When this button is pressed, the app should clear the input field.
+4. **Note Display:** The app should display all entered notes below the input form.
 
-3. **Note Display:** The app should display all entered notes below the input form.
+5. **React Native UI Components:** The app should be built using only React Native UI components.
 
-4. **React Native UI Components:** The app should be built using only React Native UI components.
+6. **Separation of Concerns:** The business logic and state management of the app should be handled in a separate file. Similarly, all data storage-related logic should be in a separate file. The input field state can be stored anywhere.
 
-5. **Separation of Concerns:** The business logic and state management of the app should be handled in a separate file. Similarly, all data storage-related logic should be in a separate file. The input field state can be stored anywhere.
-
-6. **Styling:** Style the app similarly to the provided screenshot. Exact matching is not required. Feel free to add a bottom margin to achieve spacing between notes.
+7. **Styling:** Style the app similarly to the provided screenshot. Exact matching is not required. Feel free to add a bottom margin to achieve spacing between notes.
 
 ![alt text](screenshot.png "Screenshot")
